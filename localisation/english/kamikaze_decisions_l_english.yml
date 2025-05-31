@@ -1,0 +1,11 @@
+﻿l_english:
+ enable_kamikaze_strikes:0 "Enable Kamikaze Strikes"
+ enable_kamikaze_strikes_desc:0 "Our nation faces dire circumstances. We must authorize our pilots to conduct kamikaze attacks against enemy forces. This decision will boost our air doctrine research and improve airfield capacity, but at great human cost."
+ 
+ disable_kamikaze_strikes:0 "Cease Kamikaze Operations"  
+ disable_kamikaze_strikes_desc:0 "The kamikaze operations have served their purpose or become too costly to maintain. We should return to conventional military tactics."
+ 
+ kamikaze_strikes_enabled_tt:0 "§GKamikaze strikes are now authorized§!\n§YOur pilots gain increased effectiveness but at terrible human cost§!\n§GAll airbases receive construction boost§!"
+ kamikaze_strikes_disabled_tt:0 "§RKamikaze operations have been discontinued§!\n§GNational morale improves slightly§!"
+ 
+ kamikaze_strikes_enabled:0 "Kamikaze strikes are active"
